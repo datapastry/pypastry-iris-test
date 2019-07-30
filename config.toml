@@ -1,0 +1,10 @@
+
+[[data_source]]
+
+url = 'https://www.openml.org/data/get_csv/61/dataset_61_iris.arff'
+name = 'iris'
+
+[dataset]
+
+data_source = 'iris'
+label_column = 'class'
