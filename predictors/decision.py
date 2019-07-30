@@ -2,4 +2,4 @@ from sklearn.tree import DecisionTreeClassifier
 
 
 def get_predictor():
-    return DecisionTreeClassifier()
+    return DecisionTreeClassifier(max_depth=3)
