@@ -2,7 +2,7 @@
 [[data_source]]
 
 # url = 'https://www.openml.org/data/get_csv/61/dataset_61_iris.arff'
-url = '../data/iris.csv'
+path = '../data/iris.csv'
 name = 'iris'
 
 [dataset]
