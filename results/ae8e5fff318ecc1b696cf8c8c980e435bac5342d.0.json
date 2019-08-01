@@ -1,0 +1,29 @@
+{
+    "run_start": "2019-07-31 15:40:33.203165",
+    "run_end": "2019-07-31 15:40:33.215151",
+    "run_seconds": 0.011986,
+    "results": {
+        "fit_time": 0.0017259915669759114,
+        "score_time": 0.0010383923848470051,
+        "test_score": 0.9673202614379085,
+        "fit_time_sem": 0.0001427886682931459,
+        "score_time_sem": 0.0002951647793977842,
+        "test_score_sem": 0.023565694610875765
+    },
+    "model_info": {
+        "class_weight": null,
+        "criterion": "gini",
+        "max_depth": 4,
+        "max_features": null,
+        "max_leaf_nodes": null,
+        "min_impurity_decrease": 0.0,
+        "min_impurity_split": null,
+        "min_samples_leaf": 1,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "presort": false,
+        "random_state": null,
+        "splitter": "best",
+        "type": "DecisionTreeClassifier"
+    }
+}
