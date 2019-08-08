@@ -1,0 +1,39 @@
+{
+    "run_seconds": 0.053537,
+    "results": {
+        "score_time_sem": 0.0009606464562098252,
+        "test_score_sem": 0.018257418583505533,
+        "fit_time_sem": 0.0015166980266598262,
+        "test_score": 0.9666666666666668,
+        "fit_time": 0.0052204132080078125,
+        "score_time": 0.003749227523803711
+    },
+    "dataset": {
+        "hash": "69dc21f59e7ed2ebcb898a4ae22945a93252c249",
+        "columns": [
+            "sepallength",
+            "sepalwidth",
+            "petallength",
+            "petalwidth",
+            "species"
+        ]
+    },
+    "model_info": {
+        "min_impurity_split": null,
+        "min_samples_split": 2,
+        "max_features": null,
+        "class_weight": null,
+        "max_depth": null,
+        "splitter": "best",
+        "max_leaf_nodes": null,
+        "min_impurity_decrease": 0.0,
+        "random_state": null,
+        "min_samples_leaf": 1,
+        "criterion": "gini",
+        "min_weight_fraction_leaf": 0.0,
+        "type": "DecisionTreeClassifier",
+        "presort": false
+    },
+    "run_start": "2019-08-08 21:33:43.658396",
+    "run_end": "2019-08-08 21:33:43.711933"
+}
