@@ -1,0 +1,39 @@
+{
+    "dataset": {
+        "columns": [
+            "sepallength",
+            "sepalwidth",
+            "petallength",
+            "petalwidth",
+            "species"
+        ],
+        "hash": "096d7bd324b1e6eead522ea4a5d942e230404008"
+    },
+    "run_start": "2019-08-09 15:53:01.249766",
+    "results": {
+        "test_score_sem": 0.016996731711975945,
+        "score_time_sem": 0.0007325356543784344,
+        "fit_time_sem": 0.001876024715630647,
+        "fit_time": 0.005026054382324219,
+        "score_time": 0.0032706260681152344,
+        "test_score": 0.9533333333333334
+    },
+    "model_info": {
+        "min_impurity_decrease": 0.0,
+        "type": "DecisionTreeClassifier",
+        "criterion": "gini",
+        "min_weight_fraction_leaf": 0.0,
+        "min_samples_split": 2,
+        "max_features": null,
+        "min_samples_leaf": 1,
+        "presort": false,
+        "random_state": null,
+        "class_weight": null,
+        "max_leaf_nodes": null,
+        "splitter": "best",
+        "min_impurity_split": null,
+        "max_depth": null
+    },
+    "run_seconds": 0.0467,
+    "run_end": "2019-08-09 15:53:01.296466"
+}
