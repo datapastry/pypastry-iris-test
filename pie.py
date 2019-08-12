@@ -1,10 +1,10 @@
 import pandas as pd
-from pypastry import Experiment
 from sklearn.metrics import f1_score, make_scorer
 from sklearn.model_selection import StratifiedKFold
 
 from sklearn.tree import DecisionTreeClassifier
 
+from pypastry.experiment import Experiment
 
 def get_experiment():
     candidates = pd.read_csv('../data/iris.csv')
